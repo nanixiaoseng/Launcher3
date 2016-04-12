@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="6090628589029352439" name="first_run_cling_custom_content_hint"/>
+    <string msgid="5909062802402452582" name="first_run_cling_search_bar_hint"/>
+    <string msgid="7371454440695724752" name="folder_name"/>
+</resources>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\res\\merged\\debug\\xml\\default_workspace_5x5.xml",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\res\\xml\\default_workspace_5x5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\res\\merged\\debug\\xml\\default_workspace_5x6.xml",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\res\\xml\\default_workspace_5x6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\res\\merged\\debug\\xml\\default_workspace_5x6_no_all_apps.xml",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\res\\xml\\default_workspace_5x6_no_all_apps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\res\\merged\\debug\\xml\\default_workspace_4x4_no_all_apps.xml",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\res\\xml\\default_workspace_4x4_no_all_apps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\res\\merged\\debug\\xml\\default_workspace_4x4.xml",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\res\\xml\\default_workspace_4x4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\res\\merged\\debug\\xml\\update_workspace.xml",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\res\\xml\\update_workspace.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\res\\merged\\debug\\xml\\default_workspace_5x5_no_all_apps.xml",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\res\\xml\\default_workspace_5x5_no_all_apps.xml"
+    }
+]

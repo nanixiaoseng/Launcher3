@@ -1,0 +1,199 @@
+[
+    {
+        "outputFile": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-th\\values-th.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-th\\values-th.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 117,
+                    "endOffset": 507
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-th\\values-th.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 394,
+                        "endColumn": 117,
+                        "endOffset": 507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 512,
+                    "endColumn": 90,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-th\\values-th.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 512,
+                        "endColumn": 90,
+                        "endOffset": 598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 603,
+                    "endColumn": 93,
+                    "endOffset": 692
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-th\\values-th.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 603,
+                        "endColumn": 93,
+                        "endOffset": 692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 697,
+                    "endColumn": 80,
+                    "endOffset": 773
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-th\\values-th.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 697,
+                        "endColumn": 80,
+                        "endOffset": 773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 778,
+                    "endColumn": 83,
+                    "endOffset": 857
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-th\\values-th.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 778,
+                        "endColumn": 83,
+                        "endOffset": 857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 862,
+                    "endColumn": 111,
+                    "endOffset": 969
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-th\\values-th.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 862,
+                        "endColumn": 111,
+                        "endOffset": 969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 974,
+                    "endColumn": 77,
+                    "endOffset": 1047
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-th\\values-th.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 974,
+                        "endColumn": 77,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1052,
+                    "endColumn": 95,
+                    "endOffset": 1143
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-th\\values-th.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1052,
+                        "endColumn": 95,
+                        "endOffset": 1143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1148,
+                    "endColumn": 111,
+                    "endOffset": 1255
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-th\\values-th.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1148,
+                        "endColumn": 111,
+                        "endOffset": 1255
+                    }
+                }
+            }
+        ]
+    }
+]

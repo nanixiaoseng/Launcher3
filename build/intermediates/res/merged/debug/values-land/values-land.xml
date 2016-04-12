@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_useDropTargetDownTransition">false</bool>
+    <dimen name="apps_customize_tab_bar_height">42dp</dimen>
+    <dimen name="toolbar_button_horizontal_padding">0dip</dimen>
+    <dimen name="toolbar_button_vertical_padding">8dip</dimen>
+    <integer name="apps_customize_widget_cell_count_x">3</integer>
+    <integer name="apps_customize_widget_cell_count_y">2</integer>
+    <style name="DropTargetButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingTop">@dimen/toolbar_button_vertical_padding</item>
+        <item name="android:paddingBottom">@dimen/toolbar_button_vertical_padding</item>
+        <item name="android:paddingLeft">@dimen/toolbar_button_horizontal_padding</item>
+        <item name="android:paddingRight">@dimen/toolbar_button_horizontal_padding</item>
+        <item name="android:shadowColor">#DD000000</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">4.0</item>
+    </style>
+    <style name="DropTargetButtonContainer">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="SearchButton">
+    </style>
+    <style name="TabIndicator.AppsCustomize">
+        <item name="android:maxWidth">200dp</item>
+    </style>
+</resources>

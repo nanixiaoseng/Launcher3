@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-sw720dp-v19\\values-sw720dp-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 336
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-sw720dp-v19\\values-sw720dp-v19.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 336
+                    }
+                }
+            }
+        ]
+    }
+]

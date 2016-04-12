@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\tile_picker_focused.9.png",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\tile_picker_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\tile_picker_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\tile_picker_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_actionbar_accept.png",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_actionbar_accept.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_images.png",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_images.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\tile_shadow_top.9.png",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\tile_shadow_top.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\tile_picker_selected.9.png",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\tile_picker_selected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\tile_shadow_bottom.9.png",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\tile_shadow_bottom.9.png"
+    }
+]

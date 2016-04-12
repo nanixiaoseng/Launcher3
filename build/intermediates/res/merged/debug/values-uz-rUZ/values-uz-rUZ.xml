@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="5256770727689657618" name="abandoned_clean_all">"Barchasini o‘chirish"</string>
+    <string msgid="7610119707847920412" name="abandoned_clean_this">"O‘chirish"</string>
+    <string msgid="3990027586878167529" name="abandoned_promise_explanation">"Ilova o‘rnatilmagan. Belgini o‘chirib tashlashingiz yoki ilovani topib, uni qo‘lda o‘rnatishingiz mumkin."</string>
+    <string msgid="7096178467971716750" name="abandoned_promises_title">"Ushbu ilova o‘rnatilmagan"</string>
+    <string msgid="891119232568284442" name="abandoned_search">"Qidirish"</string>
+    <string msgid="2603132375383800483" name="accessibility_all_apps_button">"Ilovalar"</string>
+    <string msgid="6466114477993744621" name="accessibility_delete_button">"O‘chirish"</string>
+    <string msgid="1628520399424565142" name="accessibility_search_button">"Izlash"</string>
+    <string msgid="4637324840434406584" name="accessibility_voice_search_button">"Ovozli qidiruv"</string>
+    <string msgid="8071924732094499514" name="activity_not_found">"Ilova o‘rnatilmadi."</string>
+    <string msgid="9110807029020582876" name="all_apps_button_label">"Ilovalar"</string>
+    <string msgid="252062713717058851" name="all_apps_home_button_label">"Uy"</string>
+    <string msgid="5181331383435256801" name="application_name">"Ishga tushirgich3"</string>
+    <string msgid="370005296147130238" name="apps_customize_apps_scroll_format">"Ilovalar sahifasi %2$ddan %1$d"</string>
+    <string msgid="3106209519974971521" name="apps_customize_widgets_scroll_format">"Vidjetlar sahifasi %2$ddan %1$d"</string>
+    <string msgid="374688303047985416" name="cab_app_selection_text">"1 ta ilova tanlandi"</string>
+    <string msgid="7999992513806132118" name="cab_folder_selection_text">"1 ta jild tanlandi"</string>
+    <string msgid="8593722221450362342" name="cab_menu_app_info">"Ilova ma’lumotlari"</string>
+    <string msgid="7435191475867183689" name="cab_menu_delete_app">"Ilovani o‘chirish"</string>
+    <string msgid="2103811025667946450" name="cab_shortcut_selection_text">"1 ta yorliq tanlandi"</string>
+    <string msgid="1833458597831541241" name="cab_widget_selection_text">"1 ta vidjet tanlandi"</string>
+    <string msgid="7009134900002915310" name="cancel_action">"Bekor qilish"</string>
+    <string msgid="8962359497601507581" name="cling_dismiss">"OK"</string>
+    <string msgid="6106288382070760318" name="completely_out_of_space">"Uy ekraningizda birorta ham xona yo‘q."</string>
+    <string msgid="7475544710230993317" name="default_scroll_format">"%2$ddan %1$d ta sahifa"</string>
+    <string msgid="1822697352535677073" name="delete_target_label">"O‘chirish"</string>
+    <string msgid="5100785476250872595" name="delete_target_uninstall_label">"O‘chirish"</string>
+    <string msgid="8083826390278958980" name="delete_zone_label_all_apps">"O‘chirish"</string>
+    <string msgid="449755632749610895" name="delete_zone_label_all_apps_system_app">"Yangilashni o‘chirish"</string>
+    <string msgid="4009607676751398685" name="delete_zone_label_workspace">"O‘chirish"</string>
+    <string msgid="1530253749244328964" name="dream_name">"Rocket Launcher"</string>
+    <string msgid="3165821058322217155" name="external_drop_widget_error">"Elementni ushbu \"Uy\" ekraniga tashlab bo‘lmadi."</string>
+    <string msgid="3486317258037690630" name="external_drop_widget_pick_title">"Yaratish uchun vidjet tanlang"</string>
+    <string msgid="6950729526680114157" name="first_run_cling_create_screens_hint">"Ilovalar va jildlar uchun ko‘proq ekranlar yaratish"</string>
+    <string msgid="6090628589029352439" name="first_run_cling_custom_content_hint"/>
+    <string msgid="6447072552696253358" name="first_run_cling_description">"O‘zingizni uyingizdagidek his qiling."</string>
+    <string msgid="5909062802402452582" name="first_run_cling_search_bar_hint"/>
+    <string msgid="2459738000155917941" name="first_run_cling_title">"Xush kelibsiz"</string>
+    <string msgid="6158215559475836131" name="folder_cling_create_folder">"Bunga o‘xshaganini yaratish uchun bosib turing, keyin boshqasiga o‘ting."</string>
+    <string msgid="3894908818693254164" name="folder_cling_title">"Mana sizga jild"</string>
+    <string msgid="4100806530910930934" name="folder_closed">"Jild yopildi"</string>
+    <string msgid="6617836969016293992" name="folder_hint_text">"Nomsiz jild"</string>
+    <string msgid="7371454440695724752" name="folder_name"/>
+    <string msgid="6629239338071103179" name="folder_name_format">"Jild: <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="94695026776264709" name="folder_opened">"Jild ochildi, <ns1:g id="WIDTH">%1$d</ns1:g> ga <ns1:g id="HEIGHT">%2$d</ns1:g>"</string>
+    <string msgid="1794088362165669656" name="folder_renamed">"Jild nomi <ns1:g id="NAME">%1$s</ns1:g>ga o‘zgartirildi"</string>
+    <string msgid="1884479294466410023" name="folder_tap_to_close">"Jildni yopish uchun bosing"</string>
+    <string msgid="9191075570492871147" name="folder_tap_to_rename">"O‘zgartirilgan nomni saqlash uchun bosing"</string>
+    <string msgid="6081085226050792095" name="gadget_error_text">"Vidjetni yuklashda muammo"</string>
+    <string msgid="3797214114206693605" name="group_applications">"Ilovalar"</string>
+    <string msgid="6012256992764410535" name="group_shortcuts">"Yorliqlar"</string>
+    <string msgid="1569030723286851002" name="group_widgets">"Vidjetlar"</string>
+    <string msgid="7658288663002113681" name="home">"Uy"</string>
+    <string msgid="7448809638125333693" name="hotseat_out_of_space">"Ajratilganlarda birorta ham xona yo‘q"</string>
+    <string msgid="8053346143994679532" name="info_target_label">"Ilova ma’lumoti"</string>
+    <string msgid="5779907847267573691" name="invalid_hotseat_item">"Ajratilganlar uchun ushbu vidjet juda katta"</string>
+    <string msgid="7699152356777458215" name="long_press_widget_to_add">"Vidjetni tanlash uchun bosib turing."</string>
+    <string msgid="2619650989819296998" name="market">"Do‘kon"</string>
+    <string msgid="1264911265836810421" name="menu_item_add_item">"Uy ekraniga qo‘shish"</string>
+    <string msgid="946331230090919440" name="migration_cling_copy_apps">"NISHONCHALARNI NUSXALASH"</string>
+    <string msgid="2752413805582227644" name="migration_cling_description">"Eski \"Uy\" ekranlaringizdan jildlar va nishonchalar import qilinsinmi?"</string>
+    <string msgid="9181776667882933767" name="migration_cling_title">"Ilovangiz nishonchalaridan nusxa olish"</string>
+    <string msgid="2626475813981258626" name="migration_cling_use_default">"YANGIDAN BOSHLASH"</string>
+    <string msgid="4691004494942118364" name="out_of_space">"Uy ekranida bitta ham xona yo‘q."</string>
+    <string msgid="4088770468458724721" name="package_state_downloading">"Yuklab olinmoqda"</string>
+    <string msgid="6227252464303085641" name="package_state_enqueued">"Kutilmoqda"</string>
+    <string msgid="7672093962724223588" name="package_state_error">"Qayta tiklanmadi"</string>
+    <string msgid="7588193972189849870" name="package_state_installing">"O‘rnatilmoqda"</string>
+    <string msgid="7592128424511031410" name="package_state_unknown">"Noma’lum"</string>
+    <string msgid="923466509822011139" name="permdesc_install_shortcut">"Ilovalarga foydalanuvchidan so‘ramasdan yorliqlar qo‘shishga ruxsat beradi."</string>
+    <string msgid="5833423719057558387" name="permdesc_read_settings">"Ilovaga \"Uy\" ekranidagi yorliqlar va sozlamalarni o‘qish uchun ruxsat beradi."</string>
+    <string msgid="5134129545001836849" name="permdesc_uninstall_shortcut">"Ilovaga foydalanuvchiga bildirmasdan yorliqlarni o‘chirish uchun ruxsat beradi."</string>
+    <string msgid="5440712911516509985" name="permdesc_write_settings">"Ilovaga \"Uy\" ekranidagi yorliqlar va sozlamalrni o‘zgartirish uchun ruxsat beradi."</string>
+    <string msgid="5632423390354674437" name="permlab_install_shortcut">"yorliqlar o‘rnatish"</string>
+    <string msgid="1941457408239617576" name="permlab_read_settings">"Uy sozlamalari va yorliqlarini o‘qish"</string>
+    <string msgid="864595034498083837" name="permlab_uninstall_shortcut">"yorliqlarni o‘chirish"</string>
+    <string msgid="3574213698004620587" name="permlab_write_settings">"Uy sozlamalari va yorliqlarini yozish"</string>
+    <string msgid="5559600076028658757" name="rename_action">"OK"</string>
+    <string msgid="3727762225964550653" name="rename_folder_label">"Jild nomi"</string>
+    <string msgid="3771389277707820891" name="rename_folder_title">"Jild nomini o‘zgartirish"</string>
+    <string msgid="8119458837558863227" name="settings_button_text">"Sozlamalar"</string>
+    <string msgid="9167217446062498127" name="shortcut_duplicate">"\"<ns1:g id="NAME">%s</ns1:g>\" yorlig‘i allaqachon mavjud."</string>
+    <string msgid="1701742129426969556" name="shortcut_installed">"\"<ns1:g id="NAME">%s</ns1:g>\" yorlig‘i yaratildi."</string>
+    <string msgid="8176767991305701821" name="shortcut_uninstalled">"\"<ns1:g id="NAME">%s</ns1:g>\" yorlig‘i o‘chirildi."</string>
+    <string msgid="3280812711670683644" name="title_select_application">"Ilovani tanlash"</string>
+    <string msgid="6680642571148153868" name="title_select_shortcut">"Yorliqni tanlash"</string>
+    <string msgid="5645299835184636119" name="toggle_weight_watcher">"Xotirani ko‘rsatish"</string>
+    <string msgid="7820867637514617527" name="uid_name">"Androidga asoslangan dasturlar"</string>
+    <string msgid="4172046090762920660" name="uninstall_system_app_text">"Bu tizim ilovasi, shuning uchun o‘chirib bo‘lmaydi."</string>
+    <string msgid="8404103075899945851" name="wallpaper_button_text">"Orqa fon rasmlari"</string>
+    <string msgid="3201040140710381657" name="widget_adder">"Vidjetlar"</string>
+    <string msgid="2880537293434387943" name="widget_button_text">"Vidjetlar"</string>
+    <string msgid="2370757736025621599" name="widget_dims_format">"%1$d × %2$d"</string>
+    <string msgid="2921133187116603919" name="widgets_tab_label">"Vidjetlar"</string>
+    <string msgid="528201129978005352" name="workspace_cling_move_item">"Fon rasmi, vidjet va sozlamalarni boshqarish uchun orqa fonga bosib turing"</string>
+    <string msgid="5626202359865825661" name="workspace_cling_title">"Joylaringizni boshqaring"</string>
+    <string msgid="2950174241104043327" name="workspace_description_format">"Uy ekrani %1$d"</string>
+    <string msgid="8458889198184077399" name="workspace_scroll_format">"Uy ekrani %2$ddan %1$d"</string>
+</resources>

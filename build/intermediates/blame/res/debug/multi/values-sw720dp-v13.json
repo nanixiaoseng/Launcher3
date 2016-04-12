@@ -1,0 +1,359 @@
+[
+    {
+        "outputFile": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-sw720dp\\config.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 45,
+                        "endOffset": 57
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 64,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-sw720dp\\config.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 410,
+                        "endColumn": 64,
+                        "endOffset": 470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 71,
+                    "endOffset": 233
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-sw720dp\\config.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 607,
+                        "endColumn": 71,
+                        "endOffset": 674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 238,
+                    "endColumn": 44,
+                    "endOffset": 278
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-sw720dp\\config.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 62,
+                        "endColumn": 44,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 283,
+                    "endColumn": 44,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 687,
+                        "endColumn": 44,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 61,
+                    "endOffset": 385
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1153,
+                        "endColumn": 61,
+                        "endOffset": 1210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 390,
+                    "endColumn": 61,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 61,
+                        "endOffset": 1272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 45,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1045,
+                        "endColumn": 45,
+                        "endOffset": 1086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 498,
+                    "endColumn": 45,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1091,
+                        "endColumn": 45,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 64,
+                    "endOffset": 604
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endColumn": 64,
+                        "endOffset": 869
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 609,
+                    "endColumn": 62,
+                    "endOffset": 667
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 746,
+                        "endColumn": 62,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 672,
+                    "endColumn": 57,
+                    "endOffset": 725
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-sw720dp\\config.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 531,
+                        "endColumn": 57,
+                        "endOffset": 584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 730,
+                    "endColumn": 75,
+                    "endOffset": 801
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-sw720dp\\config.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 237,
+                        "endColumn": 75,
+                        "endOffset": 308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 806,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1571
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-sw720dp\\styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1177,
+                        "endLine": 48,
+                        "endColumn": 12,
+                        "endOffset": 1942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1576,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1745
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-sw720dp\\styles.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1003,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1750,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 1790
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-sw720dp\\styles.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 958,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1795,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 2057
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-sw720dp\\styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2062,
+                    "endLine": 44,
+                    "endColumn": 12,
+                    "endOffset": 2209
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\exploded-aar\\Launcher3_gz\\WallpaperPicker\\unspecified\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 320,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 467
+                    }
+                }
+            }
+        ]
+    }
+]

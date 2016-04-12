@@ -1,0 +1,199 @@
+[
+    {
+        "outputFile": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-et-rEE\\values-et-rEE.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 395
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-et-rEE\\values-et-rEE.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 400,
+                    "endColumn": 117,
+                    "endOffset": 513
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-et-rEE\\values-et-rEE.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 400,
+                        "endColumn": 117,
+                        "endOffset": 513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 518,
+                    "endColumn": 94,
+                    "endOffset": 608
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-et-rEE\\values-et-rEE.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 518,
+                        "endColumn": 94,
+                        "endOffset": 608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 613,
+                    "endColumn": 104,
+                    "endOffset": 713
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-et-rEE\\values-et-rEE.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 613,
+                        "endColumn": 104,
+                        "endOffset": 713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 718,
+                    "endColumn": 81,
+                    "endOffset": 795
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-et-rEE\\values-et-rEE.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 718,
+                        "endColumn": 81,
+                        "endOffset": 795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 800,
+                    "endColumn": 85,
+                    "endOffset": 881
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-et-rEE\\values-et-rEE.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 800,
+                        "endColumn": 85,
+                        "endOffset": 881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 886,
+                    "endColumn": 110,
+                    "endOffset": 992
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-et-rEE\\values-et-rEE.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 886,
+                        "endColumn": 110,
+                        "endOffset": 992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 997,
+                    "endColumn": 82,
+                    "endOffset": 1075
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-et-rEE\\values-et-rEE.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 997,
+                        "endColumn": 82,
+                        "endOffset": 1075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1080,
+                    "endColumn": 97,
+                    "endOffset": 1173
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-et-rEE\\values-et-rEE.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1080,
+                        "endColumn": 97,
+                        "endOffset": 1173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1178,
+                    "endColumn": 122,
+                    "endOffset": 1296
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-et-rEE\\values-et-rEE.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1178,
+                        "endColumn": 122,
+                        "endOffset": 1296
+                    }
+                }
+            }
+        ]
+    }
+]

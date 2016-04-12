@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher_wallpaper.png",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\exploded-aar\\Launcher3_gz\\WallpaperPicker\\unspecified\\res\\mipmap-mdpi-v4\\ic_launcher_wallpaper.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher_home.png",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\res\\mipmap-mdpi\\ic_launcher_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher_application.png",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\res\\mipmap-mdpi\\ic_launcher_application.png"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "outputFile": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\res\\merged\\debug\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 714,
+                        "endColumn": 66,
+                        "endOffset": 776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 122,
+                    "endColumn": 66,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 781,
+                        "endColumn": 66,
+                        "endOffset": 843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 294
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-port\\styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 694,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 799
+                    }
+                }
+            }
+        ]
+    }
+]

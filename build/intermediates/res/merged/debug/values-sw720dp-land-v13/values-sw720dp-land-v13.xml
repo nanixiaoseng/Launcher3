@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="scroll_zone">100dip</dimen>
+    <integer name="apps_customize_widget_cell_count_x">4</integer>
+    <integer name="apps_customize_widget_cell_count_y">2</integer>
+</resources>

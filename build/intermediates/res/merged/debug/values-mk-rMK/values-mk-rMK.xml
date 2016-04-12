@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="5256770727689657618" name="abandoned_clean_all">"Отстрани ги сите"</string>
+    <string msgid="7610119707847920412" name="abandoned_clean_this">"Отстрани"</string>
+    <string msgid="3990027586878167529" name="abandoned_promise_explanation">"Апликацијата за оваа икона не е инсталирана. Може да ја отстраните или да се обидете да ја најдете апликацијата и да ја инсталирате рачно."</string>
+    <string msgid="7096178467971716750" name="abandoned_promises_title">"Апликацијата не е инсталирана"</string>
+    <string msgid="891119232568284442" name="abandoned_search">"Барај"</string>
+    <string msgid="2603132375383800483" name="accessibility_all_apps_button">"Апликации"</string>
+    <string msgid="6466114477993744621" name="accessibility_delete_button">"Отстрани"</string>
+    <string msgid="1628520399424565142" name="accessibility_search_button">"Пребарај"</string>
+    <string msgid="4637324840434406584" name="accessibility_voice_search_button">"Гласовно пребарување"</string>
+    <string msgid="8071924732094499514" name="activity_not_found">"Апликацијата не е инсталирана."</string>
+    <string msgid="9110807029020582876" name="all_apps_button_label">"Апликации"</string>
+    <string msgid="252062713717058851" name="all_apps_home_button_label">"Почетна страница"</string>
+    <string msgid="5181331383435256801" name="application_name">"Launcher3"</string>
+    <string msgid="370005296147130238" name="apps_customize_apps_scroll_format">"Страница на апликации %1$d од %2$d"</string>
+    <string msgid="3106209519974971521" name="apps_customize_widgets_scroll_format">"Страница на виџети %1$d од %2$d"</string>
+    <string msgid="374688303047985416" name="cab_app_selection_text">"1 апликација е избрана"</string>
+    <string msgid="7999992513806132118" name="cab_folder_selection_text">"1 папка е избрана"</string>
+    <string msgid="8593722221450362342" name="cab_menu_app_info">"Детали за апликација"</string>
+    <string msgid="7435191475867183689" name="cab_menu_delete_app">"Деинсталирај апликација"</string>
+    <string msgid="2103811025667946450" name="cab_shortcut_selection_text">"1 кратенка е избрана"</string>
+    <string msgid="1833458597831541241" name="cab_widget_selection_text">"1 виџет е избран"</string>
+    <string msgid="7009134900002915310" name="cancel_action">"Откажи"</string>
+    <string msgid="8962359497601507581" name="cling_dismiss">"Во ред"</string>
+    <string msgid="6106288382070760318" name="completely_out_of_space">"Нема повеќе простор на вашите екрани на почетна страница."</string>
+    <string msgid="7475544710230993317" name="default_scroll_format">"Страница %1$d од %2$d"</string>
+    <string msgid="1822697352535677073" name="delete_target_label">"Отстрани"</string>
+    <string msgid="5100785476250872595" name="delete_target_uninstall_label">"Деинсталирај"</string>
+    <string msgid="8083826390278958980" name="delete_zone_label_all_apps">"Деинсталирај"</string>
+    <string msgid="449755632749610895" name="delete_zone_label_all_apps_system_app">"Деинсталирај ажурирање"</string>
+    <string msgid="4009607676751398685" name="delete_zone_label_workspace">"Отстрани"</string>
+    <string msgid="1530253749244328964" name="dream_name">"Rocket Launcher"</string>
+    <string msgid="3165821058322217155" name="external_drop_widget_error">"Не можеше да се спушти елемент на овој екран на почетната страница."</string>
+    <string msgid="3486317258037690630" name="external_drop_widget_pick_title">"Избери виџет за да се создаде"</string>
+    <string msgid="6950729526680114157" name="first_run_cling_create_screens_hint">"Создади повеќе екрани за апликации и папки"</string>
+    <string msgid="6090628589029352439" name="first_run_cling_custom_content_hint"/>
+    <string msgid="6447072552696253358" name="first_run_cling_description">"Чувствувајте се како дома."</string>
+    <string msgid="5909062802402452582" name="first_run_cling_search_bar_hint"/>
+    <string msgid="2459738000155917941" name="first_run_cling_title">"Добредојдовте"</string>
+    <string msgid="6158215559475836131" name="folder_cling_create_folder">"За да создадете ваква, допрете и држете ја апликацијата, а потоа поместете ја врз другата."</string>
+    <string msgid="3894908818693254164" name="folder_cling_title">"Еве папка"</string>
+    <string msgid="4100806530910930934" name="folder_closed">"Папката е затворена"</string>
+    <string msgid="6617836969016293992" name="folder_hint_text">"Неименувана папка"</string>
+    <string msgid="7371454440695724752" name="folder_name"/>
+    <string msgid="6629239338071103179" name="folder_name_format">"Папка: <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="94695026776264709" name="folder_opened">"Отворена е папка, <ns1:g id="WIDTH">%1$d</ns1:g> на <ns1:g id="HEIGHT">%2$d</ns1:g>"</string>
+    <string msgid="1794088362165669656" name="folder_renamed">"Папката е преименувана во <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="1884479294466410023" name="folder_tap_to_close">"Допри за да се затвори папката"</string>
+    <string msgid="9191075570492871147" name="folder_tap_to_rename">"Допри за да се зачува преименувањето"</string>
+    <string msgid="6081085226050792095" name="gadget_error_text">"Проблем при вчитувањето на виџетот"</string>
+    <string msgid="3797214114206693605" name="group_applications">"Апликации"</string>
+    <string msgid="6012256992764410535" name="group_shortcuts">"Кратенки"</string>
+    <string msgid="1569030723286851002" name="group_widgets">"Виџети"</string>
+    <string msgid="7658288663002113681" name="home">"Почетна страница"</string>
+    <string msgid="7448809638125333693" name="hotseat_out_of_space">"Нема повеќе простор на лентата „Омилени“"</string>
+    <string msgid="8053346143994679532" name="info_target_label">"Информации за апликацијата"</string>
+    <string msgid="5779907847267573691" name="invalid_hotseat_item">"Овој виџет е премногу голем за лентата „Омилени“"</string>
+    <string msgid="7699152356777458215" name="long_press_widget_to_add">"Допри и задржи за да се избере виџетот."</string>
+    <string msgid="2619650989819296998" name="market">"Продавница"</string>
+    <string msgid="1264911265836810421" name="menu_item_add_item">"Додај во екран на почетна страница"</string>
+    <string msgid="946331230090919440" name="migration_cling_copy_apps">"КОПИРАЈ ИКОНИ"</string>
+    <string msgid="2752413805582227644" name="migration_cling_description">"Увези икони и папки од старите екрани на почетната страница?"</string>
+    <string msgid="9181776667882933767" name="migration_cling_title">"Копирај икони за апликација"</string>
+    <string msgid="2626475813981258626" name="migration_cling_use_default">"СТАРТУВАЈ ОД ПОЧЕТОК"</string>
+    <string msgid="4691004494942118364" name="out_of_space">"Нема повеќе простор на овој екран на почетната страница."</string>
+    <string msgid="4088770468458724721" name="package_state_downloading">"Се презема"</string>
+    <string msgid="6227252464303085641" name="package_state_enqueued">"На чекање"</string>
+    <string msgid="7672093962724223588" name="package_state_error">"Не е обновено"</string>
+    <string msgid="7588193972189849870" name="package_state_installing">"Се инсталира"</string>
+    <string msgid="7592128424511031410" name="package_state_unknown">"Непознато"</string>
+    <string msgid="923466509822011139" name="permdesc_install_shortcut">"Овозможува апликацијата да додава кратенки без интервенција на корисникот."</string>
+    <string msgid="5833423719057558387" name="permdesc_read_settings">"Овозможува апликацијата да ги менува подесувањата и кратенките на почетната страница."</string>
+    <string msgid="5134129545001836849" name="permdesc_uninstall_shortcut">"Овозможува апликацијата да ги отстрани кратенките без интервенција на корисникот."</string>
+    <string msgid="5440712911516509985" name="permdesc_write_settings">"Овозможува апликацијата да ги менува подесувањата и кратенките на почетната страница."</string>
+    <string msgid="5632423390354674437" name="permlab_install_shortcut">"инсталирај кратенки"</string>
+    <string msgid="1941457408239617576" name="permlab_read_settings">"прочитај подесувања и кратенки на почетна страница"</string>
+    <string msgid="864595034498083837" name="permlab_uninstall_shortcut">"деинсталирај кратенки"</string>
+    <string msgid="3574213698004620587" name="permlab_write_settings">"напиши подесувања и кратенки на почетна страница"</string>
+    <string msgid="5559600076028658757" name="rename_action">"Во ред"</string>
+    <string msgid="3727762225964550653" name="rename_folder_label">"Име на папка"</string>
+    <string msgid="3771389277707820891" name="rename_folder_title">"Преименувај папка"</string>
+    <string msgid="9160126848219158407" name="safemode_shortcut_error">"Преземената апликација е оневозможена во безбеден режим"</string>
+    <string msgid="8119458837558863227" name="settings_button_text">"Подесувања"</string>
+    <string msgid="9167217446062498127" name="shortcut_duplicate">"Кратенката „<ns1:g id="NAME">%s</ns1:g>“ веќе постои."</string>
+    <string msgid="1701742129426969556" name="shortcut_installed">"Кратенката „<ns1:g id="NAME">%s</ns1:g>“ е создадена."</string>
+    <string msgid="8176767991305701821" name="shortcut_uninstalled">"Кратенката „<ns1:g id="NAME">%s</ns1:g>“ е отстранета."</string>
+    <string msgid="3280812711670683644" name="title_select_application">"Избери апликација"</string>
+    <string msgid="6680642571148153868" name="title_select_shortcut">"Избери кратенка"</string>
+    <string msgid="5645299835184636119" name="toggle_weight_watcher">"Прикажи „Мени“"</string>
+    <string msgid="7820867637514617527" name="uid_name">"Основни апликации на Android"</string>
+    <string msgid="4172046090762920660" name="uninstall_system_app_text">"Ова е системска апликација и не може да се деинсталира."</string>
+    <string msgid="8404103075899945851" name="wallpaper_button_text">"Тапети"</string>
+    <string msgid="3201040140710381657" name="widget_adder">"Виџети"</string>
+    <string msgid="2880537293434387943" name="widget_button_text">"Виџети"</string>
+    <string msgid="2370757736025621599" name="widget_dims_format">"%1$d × %2$d"</string>
+    <string msgid="2921133187116603919" name="widgets_tab_label">"Виџети"</string>
+    <string msgid="528201129978005352" name="workspace_cling_move_item">"Допри и задржи ја заднината за управување со тапети, виџети и подесувања."</string>
+    <string msgid="5626202359865825661" name="workspace_cling_title">"Организирајте го вашиот простор"</string>
+    <string msgid="2950174241104043327" name="workspace_description_format">"Екран на почетна страница %1$d"</string>
+    <string msgid="8458889198184077399" name="workspace_scroll_format">"Екран на почетна страница %1$d од %2$d"</string>
+</resources>

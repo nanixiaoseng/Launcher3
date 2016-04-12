@@ -1,0 +1,2156 @@
+[
+    {
+        "outputFile": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\res\\merged\\debug\\values-mn-rMN\\values-mn-rMN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 395
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\exploded-aar\\Launcher3_gz\\WallpaperPicker\\unspecified\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 400,
+                    "endColumn": 92,
+                    "endOffset": 488
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 11017,
+                        "endColumn": 92,
+                        "endOffset": 11105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 493,
+                    "endColumn": 85,
+                    "endOffset": 574
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 11110,
+                        "endColumn": 85,
+                        "endOffset": 11191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 579,
+                    "endColumn": 175,
+                    "endOffset": 750
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 11385,
+                        "endColumn": 175,
+                        "endOffset": 11556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 755,
+                    "endColumn": 109,
+                    "endOffset": 860
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "startOffset": 11275,
+                        "endColumn": 109,
+                        "endOffset": 11380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 865,
+                    "endColumn": 78,
+                    "endOffset": 939
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 11196,
+                        "endColumn": 78,
+                        "endOffset": 11270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 944,
+                    "endColumn": 91,
+                    "endOffset": 1031
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 4647,
+                        "endColumn": 91,
+                        "endOffset": 4734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1036,
+                    "endColumn": 92,
+                    "endOffset": 1124
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 4739,
+                        "endColumn": 92,
+                        "endOffset": 4827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1129,
+                    "endColumn": 90,
+                    "endOffset": 1215
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 4453,
+                        "endColumn": 90,
+                        "endOffset": 4539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1220,
+                    "endColumn": 102,
+                    "endOffset": 1318
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 4544,
+                        "endColumn": 102,
+                        "endOffset": 4642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1323,
+                    "endColumn": 97,
+                    "endOffset": 1416
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1096,
+                        "endColumn": 97,
+                        "endOffset": 1189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1421,
+                    "endColumn": 83,
+                    "endOffset": 1500
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3826,
+                        "endColumn": 83,
+                        "endOffset": 3905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1505,
+                    "endColumn": 88,
+                    "endOffset": 1589
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 3910,
+                        "endColumn": 88,
+                        "endOffset": 3994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1594,
+                    "endColumn": 117,
+                    "endOffset": 1707
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\exploded-aar\\Launcher3_gz\\WallpaperPicker\\unspecified\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 400,
+                        "endColumn": 117,
+                        "endOffset": 513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1712,
+                    "endColumn": 84,
+                    "endOffset": 1792
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 84,
+                        "endOffset": 868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1797,
+                    "endColumn": 113,
+                    "endOffset": 1906
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 7342,
+                        "endColumn": 113,
+                        "endOffset": 7451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1911,
+                    "endColumn": 120,
+                    "endOffset": 2027
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 7456,
+                        "endColumn": 120,
+                        "endOffset": 7572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2032,
+                    "endColumn": 96,
+                    "endOffset": 2124
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 5127,
+                        "endColumn": 96,
+                        "endOffset": 5219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2129,
+                    "endColumn": 103,
+                    "endOffset": 2228
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 5328,
+                        "endColumn": 103,
+                        "endOffset": 5427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2233,
+                    "endColumn": 91,
+                    "endOffset": 2320
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 5035,
+                        "endColumn": 91,
+                        "endOffset": 5122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2325,
+                    "endColumn": 88,
+                    "endOffset": 2409
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4946,
+                        "endColumn": 88,
+                        "endOffset": 5030
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2414,
+                    "endColumn": 106,
+                    "endOffset": 2516
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 5432,
+                        "endColumn": 106,
+                        "endOffset": 5534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2521,
+                    "endColumn": 103,
+                    "endOffset": 2620
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 5224,
+                        "endColumn": 103,
+                        "endOffset": 5323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2625,
+                    "endColumn": 78,
+                    "endOffset": 2699
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2375,
+                        "endColumn": 78,
+                        "endOffset": 2449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2704,
+                    "endColumn": 76,
+                    "endOffset": 2776
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 9498,
+                        "endColumn": 76,
+                        "endOffset": 9570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2781,
+                    "endColumn": 106,
+                    "endOffset": 2883
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2794,
+                        "endColumn": 106,
+                        "endOffset": 2896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2888,
+                    "endColumn": 93,
+                    "endOffset": 2977
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\exploded-aar\\Launcher3_gz\\WallpaperPicker\\unspecified\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 518,
+                        "endColumn": 93,
+                        "endOffset": 607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2982,
+                    "endColumn": 98,
+                    "endOffset": 3076
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 7137,
+                        "endColumn": 98,
+                        "endOffset": 7231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3081,
+                    "endColumn": 84,
+                    "endOffset": 3161
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4184,
+                        "endColumn": 84,
+                        "endOffset": 4264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3166,
+                    "endColumn": 94,
+                    "endOffset": 3256
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 4269,
+                        "endColumn": 94,
+                        "endOffset": 4359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3261,
+                    "endColumn": 91,
+                    "endOffset": 3348
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 4092,
+                        "endColumn": 91,
+                        "endOffset": 4179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3353,
+                    "endColumn": 113,
+                    "endOffset": 3462
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 4832,
+                        "endColumn": 113,
+                        "endOffset": 4941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3467,
+                    "endColumn": 92,
+                    "endOffset": 3555
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 3999,
+                        "endColumn": 92,
+                        "endOffset": 4087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3560,
+                    "endColumn": 84,
+                    "endOffset": 3640
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 6859,
+                        "endColumn": 84,
+                        "endOffset": 6939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3645,
+                    "endColumn": 122,
+                    "endOffset": 3763
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1868,
+                        "endColumn": 122,
+                        "endOffset": 1986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3768,
+                    "endColumn": 116,
+                    "endOffset": 3880
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1991,
+                        "endColumn": 116,
+                        "endOffset": 2103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3885,
+                    "endColumn": 148,
+                    "endOffset": 4029
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 7972,
+                        "endColumn": 148,
+                        "endOffset": 8116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4034,
+                    "endColumn": 84,
+                    "endOffset": 4114
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 7790,
+                        "endColumn": 92,
+                        "endOffset": 7878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4119,
+                    "endColumn": 114,
+                    "endOffset": 4229
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 7675,
+                        "endColumn": 114,
+                        "endOffset": 7785
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4234,
+                    "endColumn": 80,
+                    "endOffset": 4310
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 7883,
+                        "endColumn": 88,
+                        "endOffset": 7967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4315,
+                    "endColumn": 97,
+                    "endOffset": 4408
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 7577,
+                        "endColumn": 97,
+                        "endOffset": 7670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4413,
+                    "endColumn": 168,
+                    "endOffset": 4577
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 9329,
+                        "endColumn": 168,
+                        "endOffset": 9493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4582,
+                    "endColumn": 93,
+                    "endOffset": 4671
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 9235,
+                        "endColumn": 93,
+                        "endOffset": 9324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4676,
+                    "endColumn": 86,
+                    "endOffset": 4758
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 9947,
+                        "endColumn": 86,
+                        "endOffset": 10029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4763,
+                    "endColumn": 88,
+                    "endOffset": 4847
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 6944,
+                        "endColumn": 88,
+                        "endOffset": 7028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4852,
+                    "endColumn": 60,
+                    "endOffset": 4908
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1027,
+                        "endColumn": 68,
+                        "endOffset": 1091
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4913,
+                    "endColumn": 114,
+                    "endOffset": 5023
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 10160,
+                        "endColumn": 118,
+                        "endOffset": 10274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5028,
+                    "endColumn": 147,
+                    "endOffset": 5171
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 9575,
+                        "endColumn": 155,
+                        "endOffset": 9726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5176,
+                    "endColumn": 121,
+                    "endOffset": 5293
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 10034,
+                        "endColumn": 125,
+                        "endOffset": 10155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5298,
+                    "endColumn": 102,
+                    "endOffset": 5396
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 9731,
+                        "endColumn": 102,
+                        "endOffset": 9829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5401,
+                    "endColumn": 112,
+                    "endOffset": 5509
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 9834,
+                        "endColumn": 112,
+                        "endOffset": 9942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5514,
+                    "endColumn": 106,
+                    "endOffset": 5616
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 6535,
+                        "endColumn": 106,
+                        "endOffset": 6637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5621,
+                    "endColumn": 86,
+                    "endOffset": 5703
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 6642,
+                        "endColumn": 86,
+                        "endOffset": 6724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5708,
+                    "endColumn": 80,
+                    "endOffset": 5784
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2552,
+                        "endColumn": 80,
+                        "endOffset": 2628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5789,
+                    "endColumn": 81,
+                    "endOffset": 5866
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2633,
+                        "endColumn": 81,
+                        "endOffset": 2710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5871,
+                    "endColumn": 78,
+                    "endOffset": 5945
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2715,
+                        "endColumn": 78,
+                        "endOffset": 2789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5950,
+                    "endColumn": 67,
+                    "endOffset": 6013
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 873,
+                        "endColumn": 67,
+                        "endOffset": 936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 6018,
+                    "endColumn": 121,
+                    "endOffset": 6135
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2996,
+                        "endColumn": 121,
+                        "endOffset": 3113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 6140,
+                    "endColumn": 98,
+                    "endOffset": 6234
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\exploded-aar\\Launcher3_gz\\WallpaperPicker\\unspecified\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 612,
+                        "endColumn": 98,
+                        "endOffset": 706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 6239,
+                    "endColumn": 88,
+                    "endOffset": 6323
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 4364,
+                        "endColumn": 88,
+                        "endOffset": 4448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 6328,
+                    "endColumn": 116,
+                    "endOffset": 6440
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 3118,
+                        "endColumn": 116,
+                        "endOffset": 3230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 6445,
+                    "endColumn": 119,
+                    "endOffset": 6560
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1586,
+                        "endColumn": 119,
+                        "endOffset": 1701
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 6565,
+                    "endColumn": 72,
+                    "endOffset": 6633
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1706,
+                        "endColumn": 72,
+                        "endOffset": 1774
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 6638,
+                    "endColumn": 97,
+                    "endOffset": 6731
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2454,
+                        "endColumn": 97,
+                        "endOffset": 2547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 6736,
+                    "endColumn": 100,
+                    "endOffset": 6832
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 8373,
+                        "endColumn": 100,
+                        "endOffset": 8469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 6837,
+                    "endColumn": 144,
+                    "endOffset": 6977
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 8228,
+                        "endColumn": 144,
+                        "endOffset": 8368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 6982,
+                    "endColumn": 106,
+                    "endOffset": 7084
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 8121,
+                        "endColumn": 106,
+                        "endOffset": 8223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 7089,
+                    "endColumn": 98,
+                    "endOffset": 7183
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 8474,
+                        "endColumn": 98,
+                        "endOffset": 8568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 7188,
+                    "endColumn": 94,
+                    "endOffset": 7278
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2901,
+                        "endColumn": 94,
+                        "endOffset": 2991
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 7283,
+                    "endColumn": 99,
+                    "endOffset": 7378
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 10637,
+                        "endColumn": 99,
+                        "endOffset": 10732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 7383,
+                    "endColumn": 93,
+                    "endOffset": 7472
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 10543,
+                        "endColumn": 93,
+                        "endOffset": 10632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 7477,
+                    "endColumn": 90,
+                    "endOffset": 7563
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 10926,
+                        "endColumn": 90,
+                        "endOffset": 11012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 7568,
+                    "endColumn": 96,
+                    "endOffset": 7660
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 10737,
+                        "endColumn": 96,
+                        "endOffset": 10829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 7665,
+                    "endColumn": 91,
+                    "endOffset": 7752
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 10834,
+                        "endColumn": 91,
+                        "endOffset": 10921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 7757,
+                    "endColumn": 139,
+                    "endOffset": 7892
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 5638,
+                        "endColumn": 139,
+                        "endOffset": 5773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 7897,
+                    "endColumn": 134,
+                    "endOffset": 8027
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 6142,
+                        "endColumn": 134,
+                        "endOffset": 6272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 8032,
+                    "endColumn": 143,
+                    "endOffset": 8171
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 5879,
+                        "endColumn": 143,
+                        "endOffset": 6018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 8176,
+                    "endColumn": 137,
+                    "endOffset": 8309
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 6397,
+                        "endColumn": 137,
+                        "endOffset": 6530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 8314,
+                    "endColumn": 98,
+                    "endOffset": 8408
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 5539,
+                        "endColumn": 98,
+                        "endOffset": 5633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 8413,
+                    "endColumn": 118,
+                    "endOffset": 8527
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 6023,
+                        "endColumn": 118,
+                        "endOffset": 6137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 8532,
+                    "endColumn": 100,
+                    "endOffset": 8628
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 5778,
+                        "endColumn": 100,
+                        "endOffset": 5874
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 8633,
+                    "endColumn": 119,
+                    "endOffset": 8748
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 6277,
+                        "endColumn": 119,
+                        "endOffset": 6392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 8753,
+                    "endColumn": 81,
+                    "endOffset": 8830
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\exploded-aar\\Launcher3_gz\\WallpaperPicker\\unspecified\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 711,
+                        "endColumn": 81,
+                        "endOffset": 788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 8835,
+                    "endColumn": 84,
+                    "endOffset": 8915
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\exploded-aar\\Launcher3_gz\\WallpaperPicker\\unspecified\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 793,
+                        "endColumn": 84,
+                        "endOffset": 873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 8920,
+                    "endColumn": 76,
+                    "endOffset": 8992
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2298,
+                        "endColumn": 76,
+                        "endOffset": 2370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 8997,
+                    "endColumn": 90,
+                    "endOffset": 9083
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2108,
+                        "endColumn": 90,
+                        "endOffset": 2194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 9088,
+                    "endColumn": 98,
+                    "endOffset": 9182
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2199,
+                        "endColumn": 98,
+                        "endOffset": 2293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 9187,
+                    "endColumn": 137,
+                    "endOffset": 9320
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1194,
+                        "endColumn": 137,
+                        "endOffset": 1327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 9325,
+                    "endColumn": 87,
+                    "endOffset": 9408
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 10455,
+                        "endColumn": 87,
+                        "endOffset": 10538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 9413,
+                    "endColumn": 135,
+                    "endOffset": 9544
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3497,
+                        "endColumn": 139,
+                        "endOffset": 3632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 9549,
+                    "endColumn": 123,
+                    "endOffset": 9668
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3235,
+                        "endColumn": 127,
+                        "endOffset": 3358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 9673,
+                    "endColumn": 129,
+                    "endOffset": 9798
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3363,
+                        "endColumn": 133,
+                        "endOffset": 3492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 9803,
+                    "endColumn": 93,
+                    "endOffset": 9892
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 3732,
+                        "endColumn": 93,
+                        "endOffset": 3821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 9897,
+                    "endColumn": 94,
+                    "endOffset": 9987
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3637,
+                        "endColumn": 94,
+                        "endOffset": 3727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 9992,
+                    "endColumn": 92,
+                    "endOffset": 10080
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1493,
+                        "endColumn": 92,
+                        "endOffset": 1581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 10085,
+                    "endColumn": 85,
+                    "endOffset": 10166
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 941,
+                        "endColumn": 85,
+                        "endOffset": 1022
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 10171,
+                    "endColumn": 129,
+                    "endOffset": 10296
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 6729,
+                        "endColumn": 129,
+                        "endOffset": 6854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 10301,
+                    "endColumn": 112,
+                    "endOffset": 10409
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\exploded-aar\\Launcher3_gz\\WallpaperPicker\\unspecified\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endColumn": 112,
+                        "endOffset": 986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 10414,
+                    "endColumn": 91,
+                    "endOffset": 10501
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 10363,
+                        "endColumn": 91,
+                        "endOffset": 10450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 10506,
+                    "endColumn": 81,
+                    "endOffset": 10583
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\exploded-aar\\Launcher3_gz\\WallpaperPicker\\unspecified\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 991,
+                        "endColumn": 81,
+                        "endOffset": 1068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 10588,
+                    "endColumn": 105,
+                    "endOffset": 10689
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\exploded-aar\\Launcher3_gz\\WallpaperPicker\\unspecified\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1073,
+                        "endColumn": 105,
+                        "endOffset": 1174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 10694,
+                    "endColumn": 121,
+                    "endOffset": 10811
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\exploded-aar\\Launcher3_gz\\WallpaperPicker\\unspecified\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1179,
+                        "endColumn": 121,
+                        "endOffset": 1296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 10816,
+                    "endColumn": 77,
+                    "endOffset": 10889
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1415,
+                        "endColumn": 77,
+                        "endOffset": 1488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 10894,
+                    "endColumn": 83,
+                    "endOffset": 10973
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 10279,
+                        "endColumn": 83,
+                        "endOffset": 10358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 10978,
+                    "endColumn": 88,
+                    "endOffset": 11062
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1779,
+                        "endColumn": 88,
+                        "endOffset": 1863
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 11067,
+                    "endColumn": 82,
+                    "endOffset": 11145
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1332,
+                        "endColumn": 82,
+                        "endOffset": 1410
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 11150,
+                    "endColumn": 150,
+                    "endOffset": 11296
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 8984,
+                        "endColumn": 150,
+                        "endOffset": 9130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 11301,
+                    "endColumn": 99,
+                    "endOffset": 11396
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 9135,
+                        "endColumn": 99,
+                        "endOffset": 9230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 11401,
+                    "endColumn": 127,
+                    "endOffset": 11524
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 8856,
+                        "endColumn": 127,
+                        "endOffset": 8979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 11529,
+                    "endColumn": 173,
+                    "endOffset": 11698
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 8682,
+                        "endColumn": 173,
+                        "endOffset": 8851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 11703,
+                    "endColumn": 108,
+                    "endOffset": 11807
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 8573,
+                        "endColumn": 108,
+                        "endOffset": 8677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 11812,
+                    "endColumn": 103,
+                    "endOffset": 11911
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 7033,
+                        "endColumn": 103,
+                        "endOffset": 7132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 11916,
+                    "endColumn": 105,
+                    "endOffset": 12017
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-mn-rMN\\strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 7236,
+                        "endColumn": 105,
+                        "endOffset": 7337
+                    }
+                }
+            }
+        ]
+    }
+]

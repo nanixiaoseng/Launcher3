@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\res\\merged\\debug\\values-be\\values-be.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 84,
+                    "endOffset": 135
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-be\\strings.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 9620,
+                        "endColumn": 92,
+                        "endOffset": 9708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 140,
+                    "endColumn": 85,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-be\\strings.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 4,
+                        "startOffset": 9800,
+                        "endColumn": 93,
+                        "endOffset": 9889
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endColumn": 79,
+                    "endOffset": 301
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-be\\strings.xml",
+                    "position": {
+                        "startLine": 201,
+                        "startColumn": 4,
+                        "startOffset": 9532,
+                        "endColumn": 87,
+                        "endOffset": 9615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 306,
+                    "endColumn": 78,
+                    "endOffset": 380
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-be\\strings.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 9713,
+                        "endColumn": 86,
+                        "endOffset": 9795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 385,
+                    "endColumn": 84,
+                    "endOffset": 465
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-be\\strings.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 8230,
+                        "endColumn": 92,
+                        "endOffset": 8318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 470,
+                    "endColumn": 80,
+                    "endOffset": 546
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-be\\strings.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 8323,
+                        "endColumn": 88,
+                        "endOffset": 8407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 551,
+                    "endColumn": 60,
+                    "endOffset": 607
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\res\\values-be\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1038,
+                        "endColumn": 68,
+                        "endOffset": 1102
+                    }
+                }
+            }
+        ]
+    }
+]

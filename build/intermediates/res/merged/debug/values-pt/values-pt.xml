@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="number_of_items_selected">
+    <item msgid="9015111147509924344" quantity="zero">"%1$d selecionados"</item>
+    <item msgid="8409622005831789373" quantity="one">"%1$d selecionado"</item>
+    <item msgid="479468347731745357" quantity="other">"%1$d selecionados"</item>
+  </plurals>
+    <string msgid="5256770727689657618" name="abandoned_clean_all">"Remover tudo"</string>
+    <string msgid="7610119707847920412" name="abandoned_clean_this">"Remover"</string>
+    <string msgid="3990027586878167529" name="abandoned_promise_explanation">"O app deste ícone não está instalado. Você pode remover o ícone, ou procurar o app e instalá-lo manualmente."</string>
+    <string msgid="7096178467971716750" name="abandoned_promises_title">"Este app não está instalado"</string>
+    <string msgid="891119232568284442" name="abandoned_search">"Pesquisar"</string>
+    <string msgid="2603132375383800483" name="accessibility_all_apps_button">"Apps"</string>
+    <string msgid="6466114477993744621" name="accessibility_delete_button">"Remover"</string>
+    <string msgid="1628520399424565142" name="accessibility_search_button">"Pesquisar"</string>
+    <string msgid="4637324840434406584" name="accessibility_voice_search_button">"Pesquisa por voz"</string>
+    <string msgid="8071924732094499514" name="activity_not_found">"O app não está instalado."</string>
+    <string msgid="9110807029020582876" name="all_apps_button_label">"Apps"</string>
+    <string msgid="252062713717058851" name="all_apps_home_button_label">"Início"</string>
+    <string msgid="123723511662250539" name="announce_selection">"<ns1:g id="LABEL">%1$s</ns1:g> selecionado"</string>
+    <string msgid="5181331383435256801" name="application_name">"Launcher3"</string>
+    <string msgid="370005296147130238" name="apps_customize_apps_scroll_format">"Página de apps, %1$d de %2$d"</string>
+    <string msgid="3106209519974971521" name="apps_customize_widgets_scroll_format">"Página de widgets, %1$d de %2$d"</string>
+    <string msgid="374688303047985416" name="cab_app_selection_text">"Um app selecionado"</string>
+    <string msgid="7999992513806132118" name="cab_folder_selection_text">"Uma pasta selecionada"</string>
+    <string msgid="8593722221450362342" name="cab_menu_app_info">"Detalhes do app"</string>
+    <string msgid="7435191475867183689" name="cab_menu_delete_app">"Desinstalar app"</string>
+    <string msgid="2103811025667946450" name="cab_shortcut_selection_text">"Um atalho selecionado"</string>
+    <string msgid="1833458597831541241" name="cab_widget_selection_text">"Um widget selecionado"</string>
+    <string msgid="7009134900002915310" name="cancel_action">"Cancelar"</string>
+    <string msgid="8962359497601507581" name="cling_dismiss">"Ok"</string>
+    <string msgid="6106288382070760318" name="completely_out_of_space">"Não há mais espaço nas telas iniciais."</string>
+    <string msgid="4882870800623585836" name="crop_wallpaper">"Cortar plano de fundo"</string>
+    <string msgid="7475544710230993317" name="default_scroll_format">"Página %1$d de %2$d"</string>
+    <string msgid="1822697352535677073" name="delete_target_label">"Remover"</string>
+    <string msgid="5100785476250872595" name="delete_target_uninstall_label">"Desinstalar"</string>
+    <string msgid="8083826390278958980" name="delete_zone_label_all_apps">"Desinstalar"</string>
+    <string msgid="449755632749610895" name="delete_zone_label_all_apps_system_app">"Desinstalar atualização"</string>
+    <string msgid="4009607676751398685" name="delete_zone_label_workspace">"Remover"</string>
+    <string msgid="1530253749244328964" name="dream_name">"Rocket Launcher"</string>
+    <string msgid="3165821058322217155" name="external_drop_widget_error">"Não foi possível soltar o item nesta tela inicial."</string>
+    <string msgid="3486317258037690630" name="external_drop_widget_pick_title">"Selecione um widget para criar"</string>
+    <string msgid="6950729526680114157" name="first_run_cling_create_screens_hint">"Crie mais telas para apps e pastas"</string>
+    <string msgid="6090628589029352439" name="first_run_cling_custom_content_hint"/>
+    <string msgid="6447072552696253358" name="first_run_cling_description">"Fique à vontade."</string>
+    <string msgid="5909062802402452582" name="first_run_cling_search_bar_hint"/>
+    <string msgid="2459738000155917941" name="first_run_cling_title">"Bem-vindo"</string>
+    <string msgid="6158215559475836131" name="folder_cling_create_folder">"Para criar uma pasta como esta, mantenha pressionado um app e mova-o para cima de outro."</string>
+    <string msgid="3894908818693254164" name="folder_cling_title">"Aqui está uma pasta"</string>
+    <string msgid="4100806530910930934" name="folder_closed">"Pasta fechada"</string>
+    <string msgid="6617836969016293992" name="folder_hint_text">"Pasta sem nome"</string>
+    <string msgid="7371454440695724752" name="folder_name"/>
+    <string msgid="6629239338071103179" name="folder_name_format">"Pasta: <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="94695026776264709" name="folder_opened">"Pasta aberta, <ns1:g id="WIDTH">%1$d</ns1:g> por <ns1:g id="HEIGHT">%2$d</ns1:g>"</string>
+    <string msgid="1794088362165669656" name="folder_renamed">"Pasta renomeada para <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="1884479294466410023" name="folder_tap_to_close">"Toque para fechar a pasta"</string>
+    <string msgid="9191075570492871147" name="folder_tap_to_rename">"Toque para salvar o novo nome"</string>
+    <string msgid="6081085226050792095" name="gadget_error_text">"Problema ao carregar o widget"</string>
+    <string msgid="8274003207686040488" name="gadget_setup_text">"Configuração"</string>
+    <string msgid="3797214114206693605" name="group_applications">"Apps"</string>
+    <string msgid="6012256992764410535" name="group_shortcuts">"Atalhos"</string>
+    <string msgid="1569030723286851002" name="group_widgets">"Widgets"</string>
+    <string msgid="7658288663002113681" name="home">"Início"</string>
+    <string msgid="7448809638125333693" name="hotseat_out_of_space">"Sem espaço na bandeja de favoritos"</string>
+    <string msgid="7538534580694411837" name="image_load_fail">"Não foi possível carregar a imagem"</string>
+    <string msgid="8053346143994679532" name="info_target_label">"Informações do app"</string>
+    <string msgid="5779907847267573691" name="invalid_hotseat_item">"O widget é muito grande para a bandeja de favoritos"</string>
+    <string msgid="7699152356777458215" name="long_press_widget_to_add">"Toque e pressione para selecionar um widget."</string>
+    <string msgid="2619650989819296998" name="market">"Comprar"</string>
+    <string msgid="1264911265836810421" name="menu_item_add_item">"Adicionar à tela inicial"</string>
+    <string msgid="946331230090919440" name="migration_cling_copy_apps">"COPIAR ÍCONES"</string>
+    <string msgid="2752413805582227644" name="migration_cling_description">"Importar ícones e pastas de suas telas iniciais antigas?"</string>
+    <string msgid="9181776667882933767" name="migration_cling_title">"Copiar ícones de apps"</string>
+    <string msgid="2626475813981258626" name="migration_cling_use_default">"COMEÇAR DO ZERO"</string>
+    <string msgid="4691004494942118364" name="out_of_space">"Não há mais espaço na tela inicial."</string>
+    <string msgid="4088770468458724721" name="package_state_downloading">"Transferindo"</string>
+    <string msgid="6227252464303085641" name="package_state_enqueued">"Aguardando"</string>
+    <string msgid="7672093962724223588" name="package_state_error">"Não restaurado"</string>
+    <string msgid="7588193972189849870" name="package_state_installing">"Instalando"</string>
+    <string msgid="7592128424511031410" name="package_state_unknown">"Desconhecido"</string>
+    <string msgid="923466509822011139" name="permdesc_install_shortcut">"Permite que um app adicione atalhos sem intervenção do usuário."</string>
+    <string msgid="5833423719057558387" name="permdesc_read_settings">"Permite que o app leia as configurações e os atalhos na tela inicial."</string>
+    <string msgid="5134129545001836849" name="permdesc_uninstall_shortcut">"Permite que o app remova atalhos sem a intervenção do usuário."</string>
+    <string msgid="5440712911516509985" name="permdesc_write_settings">"Permite que o app altere as configurações e os atalhos na tela inicial."</string>
+    <string msgid="5632423390354674437" name="permlab_install_shortcut">"instalar atalhos"</string>
+    <string msgid="1941457408239617576" name="permlab_read_settings">"ler configurações e atalhos da tela inicial"</string>
+    <string msgid="864595034498083837" name="permlab_uninstall_shortcut">"desinstalar atalhos"</string>
+    <string msgid="3574213698004620587" name="permlab_write_settings">"gravar configurações e atalhos da tela inicial"</string>
+    <string msgid="6704438906027442697" name="pick_image">"Escolher imagem"</string>
+    <string msgid="4628969645948454559" name="pick_wallpaper">"Planos de fundo"</string>
+    <string msgid="5559600076028658757" name="rename_action">"Ok"</string>
+    <string msgid="3727762225964550653" name="rename_folder_label">"Nome da pasta"</string>
+    <string msgid="3771389277707820891" name="rename_folder_title">"Renomear pasta"</string>
+    <string msgid="9160126848219158407" name="safemode_shortcut_error">"App transferido por download desativado no modo de segurança"</string>
+    <string msgid="8119458837558863227" name="settings_button_text">"Configurações"</string>
+    <string msgid="9167217446062498127" name="shortcut_duplicate">"O atalho \"<ns1:g id="NAME">%s</ns1:g>\" já existe."</string>
+    <string msgid="1701742129426969556" name="shortcut_installed">"Atalho \"<ns1:g id="NAME">%s</ns1:g>\" criado."</string>
+    <string msgid="8176767991305701821" name="shortcut_uninstalled">"O atalho \"<ns1:g id="NAME">%s</ns1:g>\" foi removido."</string>
+    <string msgid="3280812711670683644" name="title_select_application">"Selecione um app"</string>
+    <string msgid="6680642571148153868" name="title_select_shortcut">"Selecione um atalho"</string>
+    <string msgid="5645299835184636119" name="toggle_weight_watcher">"Mostrar memória"</string>
+    <string msgid="7820867637514617527" name="uid_name">"Principais apps do Android"</string>
+    <string msgid="4172046090762920660" name="uninstall_system_app_text">"Este é um app do sistema e não pode ser desinstalado."</string>
+    <string msgid="4093221025304876354" name="wallpaper_accessibility_name">"Plano de fundo %1$d de %2$d"</string>
+    <string msgid="8404103075899945851" name="wallpaper_button_text">"Planos de fundo"</string>
+    <string msgid="1459353972739215344" name="wallpaper_delete">"Excluir"</string>
+    <string msgid="3524143401182707094" name="wallpaper_instructions">"Definir plano de fundo"</string>
+    <string msgid="4800700444605404650" name="wallpaper_load_fail">"Não foi possível carregar a imagem como plano de fundo"</string>
+    <string msgid="3201040140710381657" name="widget_adder">"Widgets"</string>
+    <string msgid="2880537293434387943" name="widget_button_text">"Widgets"</string>
+    <string msgid="2370757736025621599" name="widget_dims_format">"%1$d × %2$d"</string>
+    <string msgid="2921133187116603919" name="widgets_tab_label">"Widgets"</string>
+    <string msgid="4119994475505235248" name="workspace_cling_longpress_description">"Toque e mantenha pressionado o segundo plano para personalizar"</string>
+    <string msgid="368660286867640874" name="workspace_cling_longpress_dismiss">"ENTENDI"</string>
+    <string msgid="9173998993909018310" name="workspace_cling_longpress_title">"Plano de fundo, widgets e configurações"</string>
+    <string msgid="528201129978005352" name="workspace_cling_move_item">"Toque e mantenha pressionada a tela de fundo para gerenciar o plano de fundo, os widgets e as configurações."</string>
+    <string msgid="5626202359865825661" name="workspace_cling_title">"Organize seu espaço"</string>
+    <string msgid="2950174241104043327" name="workspace_description_format">"Tela inicial %1$d"</string>
+    <string msgid="8458889198184077399" name="workspace_scroll_format">"Tela inicial %1$d de %2$d"</string>
+</resources>

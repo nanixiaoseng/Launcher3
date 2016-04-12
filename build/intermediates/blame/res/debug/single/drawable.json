@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\res\\merged\\debug\\drawable\\info_target_selector.xml",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\res\\drawable\\info_target_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\res\\merged\\debug\\drawable\\all_apps_button_icon.xml",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\res\\drawable\\all_apps_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\res\\merged\\debug\\drawable\\uninstall_target_selector.xml",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\res\\drawable\\uninstall_target_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_button.xml",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\res\\drawable\\widget_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\res\\merged\\debug\\drawable\\remove_target_selector.xml",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\res\\drawable\\remove_target_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\res\\merged\\debug\\drawable\\wallpaper_button.xml",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\res\\drawable\\wallpaper_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\res\\merged\\debug\\drawable\\wallpaper_tile_fg.xml",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\exploded-aar\\Launcher3_gz\\WallpaperPicker\\unspecified\\res\\drawable\\wallpaper_tile_fg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\res\\merged\\debug\\drawable\\focusable_view_bg.xml",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\res\\drawable\\focusable_view_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_widget_indicator_selector.xml",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\res\\drawable\\tab_widget_indicator_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_button.xml",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\res\\drawable\\setting_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Launcher3_gz\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_migration_cling.xml",
+        "source": "C:\\Users\\Administrator\\Launcher3_gz\\res\\drawable\\bg_migration_cling.xml"
+    }
+]

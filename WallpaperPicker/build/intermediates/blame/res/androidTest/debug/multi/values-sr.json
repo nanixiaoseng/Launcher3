@@ -1,0 +1,199 @@
+[
+    {
+        "outputFile": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-sr\\values-sr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 397
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 402,
+                    "endColumn": 118,
+                    "endOffset": 516
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 118,
+                        "endOffset": 516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 521,
+                    "endColumn": 88,
+                    "endOffset": 605
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 521,
+                        "endColumn": 88,
+                        "endOffset": 605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 610,
+                    "endColumn": 99,
+                    "endOffset": 705
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 610,
+                        "endColumn": 99,
+                        "endOffset": 705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 710,
+                    "endColumn": 82,
+                    "endOffset": 788
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 710,
+                        "endColumn": 82,
+                        "endOffset": 788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 793,
+                    "endColumn": 81,
+                    "endOffset": 870
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 793,
+                        "endColumn": 81,
+                        "endOffset": 870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 875,
+                    "endColumn": 108,
+                    "endOffset": 979
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 875,
+                        "endColumn": 108,
+                        "endOffset": 979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 984,
+                    "endColumn": 82,
+                    "endOffset": 1062
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 984,
+                        "endColumn": 82,
+                        "endOffset": 1062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1067,
+                    "endColumn": 96,
+                    "endOffset": 1159
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1067,
+                        "endColumn": 96,
+                        "endOffset": 1159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1164,
+                    "endColumn": 116,
+                    "endOffset": 1276
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Launcher3_gz\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1164,
+                        "endColumn": 116,
+                        "endOffset": 1276
+                    }
+                }
+            }
+        ]
+    }
+]
