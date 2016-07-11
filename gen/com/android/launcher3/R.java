@@ -860,20 +860,20 @@ containing a value of this type.
     public static final class string {
         /**  Button for abandoned promises dialog, that removes all abandoned promise icons. 
          */
-        public static final int abandoned_clean_all=0x7f0b0074;
+        public static final int abandoned_clean_all=0x7f0b0075;
         /**  Button for abandoned promises dialog, to removes this abandoned promise icon. 
          */
-        public static final int abandoned_clean_this=0x7f0b0075;
+        public static final int abandoned_clean_this=0x7f0b0076;
         /**  Explanation for abandoned promise dialog. "The first 'it' refers to the shortcut icon.
     The second "it" refers to the app. 
          */
-        public static final int abandoned_promise_explanation=0x7f0b0078;
+        public static final int abandoned_promise_explanation=0x7f0b0079;
         /**  Title for abandoned promise dialog. 
          */
-        public static final int abandoned_promises_title=0x7f0b0077;
+        public static final int abandoned_promises_title=0x7f0b0078;
         /**  Button for abandoned promise dialog, to search in the market for the missing package. 
          */
-        public static final int abandoned_search=0x7f0b0076;
+        public static final int abandoned_search=0x7f0b0077;
         /**  Accessibility: AllApps button 
          */
         public static final int accessibility_all_apps_button=0x7f0b0037;
@@ -892,8 +892,8 @@ containing a value of this type.
         /**  All applications label 
          */
         public static final int all_apps_button_label=0x7f0b002e;
-        public static final int all_apps_cling_add_item=0x7f0b0087;
-        public static final int all_apps_cling_title=0x7f0b0086;
+        public static final int all_apps_cling_add_item=0x7f0b0088;
+        public static final int all_apps_cling_title=0x7f0b0087;
         /**  Label for button in all applications label to go back home (to the workspace / desktop)
          for accessibilty (spoken when the button gets focus). 
          */
@@ -941,7 +941,7 @@ containing a value of this type.
         /**  Buttons in Rename folder dialog box 
          */
         public static final int cancel_action=0x7f0b0020;
-        public static final int chooser_wallpaper=0x7f0b007d;
+        public static final int chooser_wallpaper=0x7f0b007e;
         /**  The text on the button to dismiss a cling [CHAR_LIMIT=30] 
          */
         public static final int cling_dismiss=0x7f0b0063;
@@ -951,13 +951,14 @@ containing a value of this type.
         /**  Title of activity for cropping wallpapers 
          */
         public static final int crop_wallpaper=0x7f0b0008;
-        public static final int custom_workspace_cling_description_1=0x7f0b007a;
-        public static final int custom_workspace_cling_description_2=0x7f0b007c;
-        public static final int custom_workspace_cling_title_1=0x7f0b0079;
-        public static final int custom_workspace_cling_title_2=0x7f0b007b;
+        public static final int custom_workspace_cling_description_1=0x7f0b007b;
+        public static final int custom_workspace_cling_description_2=0x7f0b007d;
+        public static final int custom_workspace_cling_title_1=0x7f0b007a;
+        public static final int custom_workspace_cling_title_2=0x7f0b007c;
         /**  Debug-only activity name. [DO NOT TRANSLATE] 
          */
-        public static final int debug_memory_activity=0x7f0b006b;
+        public static final int debug_memory_activity=0x7f0b006c;
+        public static final int default_folder_name=0x7f0b0065;
         /**  The format string for default page scroll text [CHAR_LIMIT=none] 
          */
         public static final int default_scroll_format=0x7f0b004f;
@@ -1017,13 +1018,13 @@ containing a value of this type.
         /**  The description of how to create a folder [CHAR_LIMIT=70] 
          */
         public static final int folder_cling_create_folder=0x7f0b0062;
-        public static final int folder_cling_move_item=0x7f0b0088;
+        public static final int folder_cling_move_item=0x7f0b0089;
         /**  The title text for the Folder cling [CHAR_LIMIT=30] 
          */
         public static final int folder_cling_title=0x7f0b0061;
         /**  Indication that folder closed 
          */
-        public static final int folder_closed=0x7f0b0068;
+        public static final int folder_closed=0x7f0b0069;
         /**  Default folder title 
          */
         public static final int folder_hint_text=0x7f0b004d;
@@ -1032,20 +1033,20 @@ containing a value of this type.
         public static final int folder_name=0x7f0b0011;
         /**  Folder name format 
          */
-        public static final int folder_name_format=0x7f0b006a;
+        public static final int folder_name_format=0x7f0b006b;
         /**  Folder accessibility 
  The format string for when a folder is opened, speaks the dimensions 
          */
-        public static final int folder_opened=0x7f0b0065;
+        public static final int folder_opened=0x7f0b0066;
         /**  Folder renamed format 
          */
-        public static final int folder_renamed=0x7f0b0069;
+        public static final int folder_renamed=0x7f0b006a;
         /**  Instruction that clicking outside will close folder 
          */
-        public static final int folder_tap_to_close=0x7f0b0066;
+        public static final int folder_tap_to_close=0x7f0b0067;
         /**  Instruction that clicking outside will commit folder rename 
          */
-        public static final int folder_tap_to_rename=0x7f0b0067;
+        public static final int folder_tap_to_rename=0x7f0b0068;
         /**  Text to show user in place of a gadget when we can't display it properly 
          */
         public static final int gadget_error_text=0x7f0b0049;
@@ -1089,16 +1090,16 @@ s
          in the Phone UI. [CHAR LIMIT=32] 
          */
         public static final int market=0x7f0b0018;
-        public static final int menu_add=0x7f0b007e;
-        public static final int menu_help=0x7f0b0084;
+        public static final int menu_add=0x7f0b007f;
+        public static final int menu_help=0x7f0b0085;
         /**  Title of dialog box 
          */
         public static final int menu_item_add_item=0x7f0b0021;
-        public static final int menu_manage_apps=0x7f0b007f;
-        public static final int menu_notifications=0x7f0b0082;
-        public static final int menu_search=0x7f0b0081;
-        public static final int menu_settings=0x7f0b0083;
-        public static final int menu_wallpaper=0x7f0b0080;
+        public static final int menu_manage_apps=0x7f0b0080;
+        public static final int menu_notifications=0x7f0b0083;
+        public static final int menu_search=0x7f0b0082;
+        public static final int menu_settings=0x7f0b0084;
+        public static final int menu_wallpaper=0x7f0b0081;
         /**  The description of the button to migrate apps from another launcher [CHAR_LIMIT=30] 
          */
         public static final int migration_cling_copy_apps=0x7f0b005a;
@@ -1119,19 +1120,19 @@ s
         public static final int out_of_space=0x7f0b0026;
         /**  Label on an icon that references an uninstalled package, that is currently being downloaded. [CHAR_LIMIT=15] 
          */
-        public static final int package_state_downloading=0x7f0b0070;
+        public static final int package_state_downloading=0x7f0b0071;
         /**  Label on an icon that references an uninstalled package, that is going to be installed at some point. [CHAR_LIMIT=15] 
          */
-        public static final int package_state_enqueued=0x7f0b006f;
+        public static final int package_state_enqueued=0x7f0b0070;
         /**  Label on an icon that references an uninstalled package, for which restore from market has failed. [CHAR_LIMIT=15] 
          */
-        public static final int package_state_error=0x7f0b0073;
+        public static final int package_state_error=0x7f0b0074;
         /**  Label on an icon that references an uninstalled package, that is currently being installed. [CHAR_LIMIT=15] 
          */
-        public static final int package_state_installing=0x7f0b0071;
+        public static final int package_state_installing=0x7f0b0072;
         /**  Label on an icon that references an uninstalled package, for which we have no information about when it might be installed. [CHAR_LIMIT=15] 
          */
-        public static final int package_state_unknown=0x7f0b0072;
+        public static final int package_state_unknown=0x7f0b0073;
         /**  Permission description 
          */
         public static final int permdesc_install_shortcut=0x7f0b0042;
@@ -1182,7 +1183,7 @@ s
         public static final int safemode_shortcut_error=0x7f0b0013;
         /**  Text for settings button 
          */
-        public static final int settings_button_text=0x7f0b006e;
+        public static final int settings_button_text=0x7f0b006f;
         /**  Message displayed when an external application attemps to create a shortcut that already exists 
          */
         public static final int shortcut_duplicate=0x7f0b002b;
@@ -1211,7 +1212,7 @@ s
         public static final int wallpaper_accessibility_name=0x7f0b0003;
         /**  Text for wallpaper change button 
          */
-        public static final int wallpaper_button_text=0x7f0b006d;
+        public static final int wallpaper_button_text=0x7f0b006e;
         /**  Label on button to delete wallpaper(s) 
          */
         public static final int wallpaper_delete=0x7f0b0005;
@@ -1228,7 +1229,7 @@ s
         /**  Strings for the customization mode 
  Text for widget add button 
          */
-        public static final int widget_button_text=0x7f0b006c;
+        public static final int widget_button_text=0x7f0b006d;
         /**  The format string for the dimensions of a widget in the drawer 
  There is a special version of this format string for Farsi 
          */
@@ -1248,7 +1249,7 @@ s
         /**  The description of how to use the workspace [CHAR_LIMIT=70] 
          */
         public static final int workspace_cling_move_item=0x7f0b005d;
-        public static final int workspace_cling_open_all_apps=0x7f0b0085;
+        public static final int workspace_cling_open_all_apps=0x7f0b0086;
         /**  The title text for the workspace cling [CHAR_LIMIT=30] 
          */
         public static final int workspace_cling_title=0x7f0b005c;
